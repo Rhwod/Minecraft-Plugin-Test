@@ -1,2 +1,3 @@
-# 이건 그냥 테스트입니다
- 굳이 이걸 왜 보고 계세요
+# Minecraft Plugin Test
+ Just Testing :)
+ 
